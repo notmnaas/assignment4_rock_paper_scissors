@@ -19,7 +19,8 @@ How to run with Docker:
    POST to http://localhost:5000/play
 
 GitHub repo URL:
-https://github.com/YOUR_GITHUB_USERNAME/assignment4
+https://github.com/notmnaas/assignment4_rock_paper_scissors
 
 Docker Hub image URL:
 https://hub.docker.com/repository/docker/mnaas/assignment4_rock_paper_scissors
+
